@@ -1,0 +1,5 @@
+com\search\config\RestTemplateConfig.class
+com\search\controller\SearchController.class
+com\search\model\Product.class
+com\search\SearchServiceApplication.class
+com\search\service\SearchService.class
