@@ -3,15 +3,16 @@ This project implements a simple microservices-based Search Service using Java a
 The application consists of two services:
 
 1] Inventory Service – Stores product data in MongoDB and exposes a REST API to fetch products.
+
 2] Search Service – Calls the Inventory Service, filters products priced under $50 using Java Stream API, and returns a sorted list of product names.
 
 The project demonstrates basic microservices communication, REST API integration, and MongoDB usage.
 
 Tech Stack :
-        Java 17
-        Spring Boot
-        MongoDB
-        Maven
+        Java 17 ,
+        Spring Boot ,
+        MongoDB ,
+        Maven ,
         REST APIs
 
 
